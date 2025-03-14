@@ -24,6 +24,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 Source the virtual environment
 
 ```bash
+uv venv
 source .venv/bin/activate
 ```
 
